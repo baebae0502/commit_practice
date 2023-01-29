@@ -29,3 +29,15 @@ print(get_total_page(15, 10))
 print(get_total_page(25, 10))
 print(get_total_page(30, 10))
 
+# 06-4 : 간단한 메모장 만들기
+# C:/doit/ch6/memo.py
+
+# 06-5 : 탭을 4개의 공백으로 바꾸기
+# C:/doit/ch6/tabto4.py
+
+# 06-6 : 하위 디렉터리 검색하기
+# C:/doit/ch6/sub_dir_search.py
+
+'''
+추가한부분
+'''
